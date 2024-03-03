@@ -1,0 +1,6 @@
+django
+django-admin
+djangorestframework
+environs
+mysqlclient
+
